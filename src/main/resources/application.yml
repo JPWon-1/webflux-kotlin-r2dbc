@@ -1,0 +1,14 @@
+webclient.h2-console-port: 8088
+#spring:
+#  datasource:
+#    url: jdbc:h2:mem:testdb
+#    username: sa
+#    password:
+#    driver-class-name: org.h2.Driver
+#  data:
+#    r2dbc:
+#      repositories:
+#        enabled: true
+#  r2dbc:
+#    url: r2dbc:h2:mem:///~/db/testdb
+#
